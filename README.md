@@ -5,7 +5,7 @@
 ### Challenge
 **Subject** *As we are not allowed to use any standard c library and their functions in 42 school, this project is oriented to create our self-made function library, replicating some of the main functions for the standard libraries and some other utilities that will be useful for future projects*
 
-* Mandatory functions
+*** Mandatory functions
 
 • memset
 • bzero
@@ -30,12 +30,12 @@
 • toupper
 • tolower
   
-* Mandatory functions with malloc
+*** Mandatory functions with malloc
 
 • calloc
 • strdup
 
-* Bonus part - Create a few introductory functions to linked list:
+*** Bonus part - Create a few introductory functions to linked list:
 
 • ft_lstnew
 • ft_lstadd_front
