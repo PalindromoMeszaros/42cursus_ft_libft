@@ -1,4 +1,4 @@
-# ft_libft
+# 42Madrid School ft_libft project
 ### Mandatory: Score 100/100
 ### Bonus: Score 15/15
 ***
